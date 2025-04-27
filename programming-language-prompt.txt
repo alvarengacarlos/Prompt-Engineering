@@ -1,0 +1,20 @@
+### Instruction 
+Answer all these questions about the ..... programming language:
+
+- How does it manage project dependencies? Does it download all dependencies and place them in a local directory with the project, or does it download all dependencies and place them in a shared directory?
+- How does it support Object-Oriented Programming? Are method overloading and polymorphism supported? How is inheritance handled? Does it have accessibility modifiers for properties and methods? Does it support interfaces? Does it have abstract classes?
+- Does it use a garbage collector?
+- Are there built-in packages/libraries?
+- Does it enforce a directory structure?
+- Does it support null safety?
+- Does it have pointers like C?
+- How does it handle concurrency/parallelism?
+- What are some known applications written in this language?
+- Does it work well with microservice architecture and web development?
+- How is error handling done? Is it through try-catch?
+- How is the AWS SDK support for this language?
+- Does it use stack and heap memory?
+- Does it support immutability?
+
+### Output
+I want a simple table summarizing this. No code is necessary.
